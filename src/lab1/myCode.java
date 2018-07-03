@@ -10,6 +10,7 @@ public class myCode {
         System.out.println("Puriwat Lertkrai");
         System.out.println("11111111111");
         System.out.println("MIT421");
+        System.out.println("SAM");
 
 
 
